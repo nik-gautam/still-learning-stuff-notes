@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "dcf6aa0e09de6f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2b7121790785ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vitualization/Abstraction/Problem Statement.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "143168c21df4e002",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf2b155391c55bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c73904c82f3fd110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b532b1a997cfa0b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54140130f405e3f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb6dd08ff2e62762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714a1339c54b9f5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vitualization/Abstraction/Problem Statement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc2b7121790785ac",
+  "lastOpenFiles": [
+    "Vitualization/Abstraction/Problem Statement.md",
+    "Overview/Overview.md",
+    "Untitled.md"
+  ]
+}

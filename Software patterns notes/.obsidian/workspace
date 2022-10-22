@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "1ce2f851d89e47ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc662545c77b7b9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Observer Pattern.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed3932d7611707bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b3cd569f6299bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f57ac63498247af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d5c2161a3d5155a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01916c2b2782edec",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8e245c3c23e7f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af12196bb5f5a32c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Observer Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc662545c77b7b9d",
+  "lastOpenFiles": [
+    "Observer Pattern.md",
+    "Intro to design principles.md"
+  ]
+}
